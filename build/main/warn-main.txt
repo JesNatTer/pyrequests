@@ -43,7 +43,7 @@ missing module named vms_lib - imported by platform (delayed, conditional, optio
 missing module named java - imported by platform (delayed)
 missing module named _winreg - imported by platform (delayed, optional), requests.utils (delayed, conditional, optional)
 missing module named org - imported by pickle (optional)
-missing module named nt - imported by os (delayed, conditional, optional), ntpath (optional), shutil (conditional), pathlib (conditional), ctypes (delayed, conditional)
+missing module named nt - imported by shutil (conditional), ntpath (optional), pathlib (conditional), os (delayed, conditional, optional), ctypes (delayed, conditional)
 missing module named StringIO - imported by six (conditional), simplejson.compat (conditional, optional), requests.compat (conditional)
 missing module named Cookie - imported by requests.compat (conditional)
 missing module named cookielib - imported by requests.compat (conditional)
